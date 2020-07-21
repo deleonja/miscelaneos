@@ -4,6 +4,15 @@ Autor: José Alfredo de León
 
 Script de python muy básico para ejemplificar cómo hacer
 gráficas.
+
+Instrucciones de ejecución
+- Linux: en terminal ir a la carpeta en la que está guardado el .py y
+ejecutar el comando "python3 graph-example.py"
+- Windows: utilizar Spyder de Anaconda o VS Code o su IDE de preferencia.
+Creo que en la cmd de windows funciona el mismo comando de linux.
+
+Al ejecutar el programa se va a guardar la gráfica en la misma carpeta
+donde se enuentra el .py.
 '''
 
 # Importar módulo matplotlib.pyplot para poder utilizar funciones
